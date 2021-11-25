@@ -1,0 +1,325 @@
+* {
+	box-sizing: border-box;
+}
+body      {
+              background-color:Linen
+	        
+			  
+			  }
+
+h2{
+             display: inline;
+			 margin: 20px 60px;
+			 vertical-align: 50%;
+			 font-family: 'Abril Fatface', cursive;
+             font-family: 'Dancing Script', cursive;
+			 font-size:60px;
+			 color:rgb(255, 255, 240);
+			 padding-top:0px;
+			 text-align: center;
+			 
+
+}
+h3  {
+	        text-align:center;
+            color: rgb(160, 82, 45);
+			margin:10px;
+			padding:30px 50px 80px;
+			font-size: 30px
+			
+} 
+
+h1 {
+	        text-align:left;
+            color: rgb(160, 82, 45);
+			margin:10px;
+			padding-top:30px;
+			padding-left: 30px;
+			font-size: 50px;
+			
+}
+h4 {        color: rgb(255, 255, 240);
+			margin:10px;
+			padding:30px 50px 50px;
+			font-size: 75px
+			
+
+}
+h5{
+	        text-align:left;
+            color:rgb(160, 82, 45);
+			margin:10px;
+			padding-top:30px;
+			padding-left: 30px;
+			font-size: 30px;
+}
+h6{
+	        text-align:center;
+            color:rgb(255, 255, 240);
+			margin:10px;
+            padding-left: 30px;
+			font-size: 40px;
+	
+}
+p {
+	        font-family: 'Abril Fatface', cursive;
+            font-family: 'Dancing Script', cursive;
+            font-family: 'Playfair Display', serif;
+			margin: 40px 10px;
+			color:rgb(139, 69, 19);
+			font-size:25px;
+			text-align:center;
+}
+
+.navbar {
+	        height:160px;
+			background-color: rgb(255, 228, 196);
+			margin:0px;
+			
+			
+			
+}
+.navbar ul{ 
+             margin-left:0px;
+			 vertical-align:150%;
+			 list-style-type: none;
+			 padding:0px 600px;
+			 margin:0px;
+             overflow: hidden;
+             display: inline-block;
+             font-size: 25px;
+			 font-family: 'Abril Fatface', cursive;
+             font-family: 'Dancing Script', cursive;
+             
+ }
+
+nav ul li {
+  float: left;
+  text-align:center;
+}
+
+nav ul li a {
+  display: block;
+  color: rgb(160, 82, 45) ;
+  text-align: center;
+  padding: 14px 14px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(238, 204, 170);
+}
+
+header  {
+           background-color:rgb(188, 143, 143);
+		   background-repeat:none;
+		   background-size:cover;
+		   height:350px;
+		   margin:0px;
+		   text-align: center;
+		   
+}
+div {
+    display: block;
+}
+* {
+    box-sizing: border-box;
+}
+
+.container {
+        display: grid;
+         grid-template-columns: 1fr 1fr 1fr; /* fraction*/
+}
+.sectiune-pe-jumate { 
+            width:100%;
+			float:left;
+			background-color:rgb(255, 228, 196);
+			padding-left:10px;
+			border: 5px solid F5DEB3;
+			}
+
+	     
+.poza{
+	     width:95%;
+	     height:auto;
+		 margin-top:10px;
+	
+}
+.poza2 { 
+         width:86%;
+	     height:auto;
+		 margin-top:10px;
+	
+}
+.poza3 {
+	     width:85%;
+	     height:auto;
+		 margin-left:30px;
+		 margin-top:25px;
+		 padding-top:60px;
+	     border-radius: 60%;
+
+	
+}
+
+.logo{
+	   width:50%;
+	   height:auto;
+	   margin-top:5px;
+	   margin-left:100px;
+}
+.logo2{
+	   width:30%;
+	   height:auto;
+	   margin-top:5px;
+	   margin-left:30px;
+	   
+}
+
+.descriere {
+         font-family: 'Abril Fatface', cursive;
+         font-family: 'Dancing Script', cursive;
+         font-family: 'Playfair Display', serif;
+	     margin: 40px 10px;
+	     color:rgb(139, 69, 19);
+		 font-size:20px;
+		 text-align:left; 
+}
+.container2 {
+	 display: grid;
+     background-color:rgb(188, 143, 143);
+	
+	
+}
+.container3 {
+	 display: grid;
+     background-color:rgb(255, 228, 196);
+	 grid-template-columns: 1fr 1fr 1fr; /* fraction*/
+	
+	
+	
+}
+.container4{
+	 display: grid;
+     background-color:rgb(188, 143, 143);
+	 grid-template-columns: 1fr 1fr 1fr; /* fraction*/
+	
+}
+.container5{
+	 display: grid;
+     background-color:rgb(255, 228, 196);
+	 grid-template-columns:1fr 1fr; /* fraction*/
+	
+}
+
+ol li{
+	 margin:0px;
+     color:rgb(255, 255, 240);
+	 padding-top:10px;
+	 padding-left: 30px;
+	 font-size:20px;
+}
+.lista li {
+	 
+     color:rgb(139, 69, 19);
+	 font-size:20px
+}
+ul li {
+	 margin:0px;
+     color:rgb(255, 255, 240);
+	 padding-top:10px;
+	 padding-left: 30px;
+	 font-size:20px;
+}
+.lista2 li {
+	 font-size:20px;
+	 color:rgb(255, 255, 240);
+     margin:10px;
+     padding-left: 30px;
+     font-size: 40px;
+}
+.paragraf {
+	 	font-family: 'Abril Fatface', cursive;
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Playfair Display', serif;
+		margin: 40px 10px;
+		color:rgb(139, 69, 19);
+		font-size:25px;
+		text-align:left;
+		padding-top:60px;
+		padding-left: 30px;
+	
+}
+div.gallery {
+  border:5px solid rgb(188, 143, 143);
+}
+
+div.gallery:hover {
+  border:7px solid rgb(255, 255, 240);
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align:left;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding:6px;
+  float: left;
+  width: 32%;
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.fa {
+  padding: 20px;
+  font-size: 50px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+  
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+footer{
+	 background-color:rgb(255, 228, 196);
+     padding-left:10px;
+	 border:15px solid rgb(255, 255, 240);
+}
+
+
+
+
+
+			
+
+
+	 
+
+
+
+			 
